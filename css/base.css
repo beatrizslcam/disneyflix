@@ -1,0 +1,10 @@
+body{
+    position: relative;
+    width: 1440px;
+    height: 900px;
+  
+
+    background: url(../image.jpg);
+    background-size: cover;
+}
+
